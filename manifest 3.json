@@ -1,0 +1,13 @@
+{
+  "name": "Rumo — Organização Financeira",
+  "short_name": "Rumo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F7F8",
+  "theme_color": "#F7F7F8",
+  "icons": [
+    { "src": "icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
